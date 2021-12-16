@@ -49,9 +49,9 @@ class _HomeState extends State<Home> {
           child: Column(
             children: const [
               LessonCard(
-                  header: 'Linear Algebra',
-                  description: 'Learn linear algebra',
-                  title: 'Linear Algebra'),
+                  header: 'Mobile Programming',
+                  description: 'Learn Mobile Programming',
+                  title: 'Mobile Programming'),
               LessonCard(
                   header: 'Calculus',
                   description: 'Learn calculus',
